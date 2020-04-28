@@ -14,6 +14,6 @@ def select_winner(passengers)
   suite_d: "Charlie Chaplin",
   suite_e: "Crumpet the Elf"
   }
-  passengers["suite_a"]
+  passengers[suite_a]
   # add the code snippet here!
 end
